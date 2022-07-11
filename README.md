@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coutinho97,
 - 👀 I’m looking for a new job on the programming world :)
 - 🌱 I’m currently working on a project with C#, VB and SQL server.
-- 💞️ I’m looking to collaborate on new projects that make dme a better programmer!
+- 💞️ I’m looking to collaborate on new projects that make me a better programmer!
 - 📫 cou7inho97@gmail.com
 
 <!---
