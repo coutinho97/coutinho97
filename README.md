@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coutinho97,
-- 👀 I’m looking for a new job as a embedded software engineer!
+- 👀 Currently working at CeNTI as eletronic engineer on a firmware team.
 - 📫 cou7inho97@gmail.com
 
 <!---
