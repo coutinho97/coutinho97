@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coutinho97,
-- 👀 Currently working at CeNTI as R&D Eletronic Engineer on a firmware team.
+- 👀 Currently working at CeNTI as R&D Eletronic Engineer on a Embedded Software team.
 - 📫 cou7inho97@gmail.com
 
 <!---
